@@ -112,3 +112,4 @@ curl -X POST `
 Donde `@test_input.json` indica que se está usando el contenido del archivo `test_input.json` como body de la petición.
 
 ## Errores Comunes
+# Pruebas-Automatizadas
